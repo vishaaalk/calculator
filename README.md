@@ -1,2 +1,2 @@
-# calculator
-https://vishaaalk.github.io/calculator/
+# Hotal Room
+https://vishaaalk.github.io/Hotal room/
